@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Auto-Eval: Tell me if my Eval complies with OpenAI",
+			"name": "Auto-Eval: Eval linter",
 			"item": [
 				{
 					"name": "Create a new task",
@@ -52,7 +52,7 @@
 							}
 						}
 					],
-					"_postman_id": "a4fabf82-4b24-41c9-93ba-3a7e684dd607",
+					"id": "a4fabf82-4b24-41c9-93ba-3a7e684dd607",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -225,7 +225,7 @@
 							}
 						}
 					],
-					"_postman_id": "1044c359-05e8-4a46-8fe8-e648edfe15c1",
+					"id": "1044c359-05e8-4a46-8fe8-e648edfe15c1",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -387,7 +387,7 @@
 							}
 						}
 					],
-					"_postman_id": "a3d92da5-615a-451c-8cc7-7e507c56eb3f",
+					"id": "a3d92da5-615a-451c-8cc7-7e507c56eb3f",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -565,7 +565,7 @@
 							}
 						}
 					],
-					"_postman_id": "793470fc-f329-4ec7-a184-952c91b9fb6b",
+					"id": "793470fc-f329-4ec7-a184-952c91b9fb6b",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -759,7 +759,7 @@
 							}
 						}
 					],
-					"_postman_id": "ccfc3dbc-72d5-47f3-ae9b-421311785f07",
+					"id": "ccfc3dbc-72d5-47f3-ae9b-421311785f07",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -956,7 +956,7 @@
 							}
 						}
 					],
-					"_postman_id": "cfbe2325-f44b-403d-8afa-100fb25a77b2",
+					"id": "cfbe2325-f44b-403d-8afa-100fb25a77b2",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -1134,7 +1134,7 @@
 							}
 						}
 					],
-					"_postman_id": "bb631b33-bae1-412c-8796-dd3ac4f37c6b",
+					"id": "bb631b33-bae1-412c-8796-dd3ac4f37c6b",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -1330,7 +1330,7 @@
 							}
 						}
 					],
-					"_postman_id": "2baa886a-4bb7-4ab5-83ee-96f62cfd09cd",
+					"id": "2baa886a-4bb7-4ab5-83ee-96f62cfd09cd",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -1459,7 +1459,7 @@
 							}
 						}
 					],
-					"_postman_id": "259b0fd9-96a6-4aa1-9c47-bf0b0707aa19",
+					"id": "259b0fd9-96a6-4aa1-9c47-bf0b0707aa19",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -1558,7 +1558,7 @@
 					]
 				}
 			],
-			"_postman_id": "b847debe-c1b8-4f88-855f-42d46dae04a0"
+			"id": "b847debe-c1b8-4f88-855f-42d46dae04a0"
 		}
 	]
 }
