@@ -61,7 +61,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{    \"input\": \"Tell me what's wrong with this eval: {\\\"name\\\":\\\"TestWriteFile\\\",\\\"category\\\":[\\\"interface\\\"],\\\"task\\\":\\\"null\\\",\\\"dependencies\\\":[],\\\"cutoff\\\":60,\\\"ground\\\":{\\\"answer\\\":\\\"The word 'Washington', printed to a .txt file named anything\\\",\\\"should_contain\\\":[\\\"Washington\\\"],\\\"should_not_contain\\\":[],\\\"files\\\":[\\\".txt\\\"],\\\"eval\\\":{\\\"type\\\":\\\"file\\\"}},\\\"info\\\":{\\\"difficulty\\\":\\\"interface\\\",\\\"description\\\":\\\"Tests the agents ability to write to a file\\\",\\\"side_effects\\\":[\\\"\\\\\\\"\\\"]}}\"\n}",
+							"raw": "{    \"input\": \"Tell me what's wrong with this eval: {\\\"name\\\":\\\"TestWriteFile\\\",\\\"category\\\":[\\\"interface\\\"],\\\"task\\\":null,\\\"dependencies\\\":[],\\\"cutoff\\\":60,\\\"ground\\\":{\\\"answer\\\":\\\"The word 'Washington', printed to a .txt file named anything\\\",\\\"should_contain\\\":[\\\"Washington\\\"],\\\"should_not_contain\\\":[],\\\"files\\\":[\\\".txt\\\"],\\\"eval\\\":{\\\"type\\\":\\\"file\\\"}},\\\"info\\\":{\\\"difficulty\\\":\\\"interface\\\",\\\"description\\\":\\\"Tests the agents ability to write to a file\\\",\\\"side_effects\\\":[\\\"\\\\\\\"\\\"]}}\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
